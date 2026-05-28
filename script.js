@@ -53,3 +53,11 @@ function isPrime(num) {
 
     return true;
 }
+//I was instructed to not include any console.log in my code but this right here is where I tested the proper functioning of the functions that I crreated above. I call it my tsting area
+// console.log("multiply:", multiply(2, 3, 4));
+// console.log("convertToSeconds:", convertToSeconds(5));
+// console.log("fahrenheitToCelsius:", farenheitToCelsius(100));
+// console.log("reverseString:", reverseString("Hello"));
+// console.log("countVowels:", countVowels("Javascript"));
+// console.log("isPrime 7:", isPrime(7));
+// console.log("isPrime 4:", isPrime(4));

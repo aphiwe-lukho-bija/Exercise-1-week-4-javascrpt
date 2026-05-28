@@ -1,13 +1,13 @@
-// 1. multiply function (3 different numbers required)
+// 1. multiply function
 function multiply(a, b, c) {
     if (a === b || b === c || a === c) {
         return "Numbers must NOT be the same";
     }
     return a * b * c;
 }
+ 
 
-
-// 2. convertToSeconds (function expression)
+// 2. convertToSeconds
 const convertToSeconds = function(minutes) {
     return minutes * 60;
 };
